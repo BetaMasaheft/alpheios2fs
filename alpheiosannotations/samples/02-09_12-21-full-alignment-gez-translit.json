@@ -1,0 +1,359 @@
+{
+    "id": "3a80509f-d7db-40d9-a9d1-209c6ecec3cd",
+    "createdDT": "2021-09-02 11:59:27",
+    "updatedDT": "2021-09-02 12:20:44",
+    "userID": "defaultUserID",
+    "origin": {
+        "docSource": {
+            "textId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+            "textType": "origin",
+            "text": "<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">\n    <dts:fragment xmlns:dts=\"https://w3id.org/dts/api#\">\n        <div xml:lang=\"gez\" type=\"edition\">\n           <note>The incipit is taken from <ref type=\"mss\" corresp=\"BLorient577\"/>\n            <\/note>\n           <div type=\"textpart\" subtype=\"incipit\">\n            <ab xml:lang=\"gez\">በረድኤተ፡ ቅዱስ፡ መንፈስ፡ ኅጡአ፡ ህላዌ፡ እምተረክቦ።<\/ab>\n           <\/div>\n         <\/div>\n    <\/dts:fragment>\n<\/TEI>",
+            "direction": "ltr",
+            "lang": "gez",
+            "sourceType": "tei",
+            "tokenization": {
+                "tokenizer": "alpheiosRemoteTokenizer",
+                "ignore": "label,ref,milestone,orig,abbr,head,title,teiHeader,del,g,bibl,front,back,speaker",
+                "linebreaks": "p,div,seg,l,ab",
+                "segments": "doubleline"
+            },
+            "metadata": {
+                "properties": [
+                    {
+                        "property": "identifier",
+                        "value": "LIT6495Zenawa"
+                    },
+                    {
+                        "property": "title",
+                        "value": "Za-kama zenawā Gabrǝʾel la-Māryām wa-yǝbe ḫaylu la-ʾab za-warada yǝḫdǝr ba-māḫḍanā la-dǝngǝl za-ba-fǝqru maṣʾa"
+                    },
+                    {
+                        "property": "source",
+                        "value": "https://betamasaheft.eu/tei/LIT6495Zenawa.xml"
+                    },
+                    {
+                        "property": "description",
+                        "value": "The abstract textual unit Za-kama zenawā Gabrǝʾel la-Māryām wa-yǝbe ḫaylu la-ʾab za-warada yǝḫdǝr ba-māḫḍanā la-dǝngǝl za-ba-fǝqru maṣʾa in Beta maṣāḥǝft. The text has a form of a dialogue between Mary and Gabriel during the annunciation."
+                    }
+                ]
+            }
+        },
+        "alignedText": {
+            "textId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+            "textType": "origin",
+            "direction": "ltr",
+            "lang": "gez",
+            "sourceType": "tei",
+            "tokenPrefix": "1",
+            "tokenization": {
+                "tokenizer": "alpheiosRemoteTokenizer",
+                "ignore": "label,ref,milestone,orig,abbr,head,title,teiHeader,del,g,bibl,front,back,speaker",
+                "linebreaks": "p,div,seg,l,ab",
+                "segments": "doubleline"
+            },
+            "segments": [
+                {
+                    "index": 1,
+                    "textType": "origin",
+                    "lang": "gez",
+                    "direction": "ltr",
+                    "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                    "tokens": [
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-0",
+                            "word": "The",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 0
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-1",
+                            "word": "incipit",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 1
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-2",
+                            "word": "is",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 2
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-3",
+                            "word": "taken",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 3
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-4",
+                            "word": "from",
+                            "hasLineBreak": true,
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 4
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-5",
+                            "word": "በረድኤተ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 5
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-6",
+                            "word": "ቅዱስ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 6
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-7",
+                            "word": "መንፈስ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 7
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-8",
+                            "word": "ኅጡአ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 8
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-9",
+                            "word": "ህላዌ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 9
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-10",
+                            "word": "እምተረክቦ።",
+                            "segmentIndex": 1,
+                            "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "targets": {
+        "bbf8f783-0091-46b8-8b27-513efd06461c": {
+            "docSource": {
+                "textId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                "textType": "target",
+                "text": "baradʾeta qǝdus manfas ḫǝṭuʾa hǝlāwe ʾǝmtarakbo",
+                "direction": "ltr",
+                "lang": "translit",
+                "sourceType": "text",
+                "tokenization": {
+                    "tokenizer": "alpheiosRemoteTokenizer",
+                    "segments": "doubleline"
+                },
+                "metadata": {
+                    "properties": [
+                        {
+                            "property": "identifier",
+                            "value": "LIT6495Zenawa"
+                        },
+                        {
+                            "property": "title",
+                            "value": "translit"
+                        },
+                        {
+                            "property": "publisher",
+                            "value": "BM"
+                        },
+                        {
+                            "property": "source",
+                            "value": "https://betamasaheft.github.io/transliteration/"
+                        }
+                    ]
+                }
+            },
+            "alignedText": {
+                "textId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                "textType": "target",
+                "direction": "ltr",
+                "lang": "translit",
+                "sourceType": "text",
+                "tokenPrefix": 2,
+                "tokenization": {
+                    "tokenizer": "alpheiosRemoteTokenizer",
+                    "segments": "doubleline"
+                },
+                "segments": [
+                    {
+                        "index": 1,
+                        "textType": "target",
+                        "lang": "translit",
+                        "direction": "ltr",
+                        "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                        "tokens": [
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-0",
+                                "word": "baradʾeta",
+                                "segmentIndex": 1,
+                                "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 0
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-1",
+                                "word": "qǝdus",
+                                "segmentIndex": 1,
+                                "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 1
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-2",
+                                "word": "manfas",
+                                "segmentIndex": 1,
+                                "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 2
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-3",
+                                "word": "ḫǝṭuʾa",
+                                "segmentIndex": 1,
+                                "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 3
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-4",
+                                "word": "hǝlāwe",
+                                "segmentIndex": 1,
+                                "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 4
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-5",
+                                "word": "ʾǝmtarakbo",
+                                "segmentIndex": 1,
+                                "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "alignmentGroups": [
+        {
+            "id": "d23ae1f9-1168-46bc-9b9f-1aa32d96d255",
+            "actions": {
+                "segmentIndex": 1,
+                "targetId": "bbf8f783-0091-46b8-8b27-513efd06461c",
+                "origin": [
+                    "1-0-10",
+                    "1-0-5",
+                    "1-0-6",
+                    "1-0-7",
+                    "1-0-8",
+                    "1-0-9"
+                ],
+                "target": [
+                    "2-0-0",
+                    "2-0-1",
+                    "2-0-2",
+                    "2-0-3",
+                    "2-0-4",
+                    "2-0-5"
+                ]
+            }
+        }
+    ],
+    "annotations": {
+        "1-0-6": [
+            {
+                "id": "2f7d4def-317a-475a-8a5d-a485e7f2ef02",
+                "tokenData": {
+                    "textType": "origin",
+                    "idWord": "1-0-6",
+                    "segmentIndex": 1,
+                    "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242"
+                },
+                "type": "LEMMAID",
+                "text": "https://betamasaheft.eu/Dillmann/lemma/Lc3a34881860047b1938fb94f0b0d52db",
+                "index": 1
+            },
+            {
+                "id": "d077832c-f8a9-439c-aa38-84ece461bb65",
+                "tokenData": {
+                    "textType": "origin",
+                    "idWord": "1-0-6",
+                    "segmentIndex": 1,
+                    "docSourceId": "37f2720d-6e5f-4501-a559-3c8d1d4a5242"
+                },
+                "type": "MORPHOLOGY",
+                "text": "singularp singulars voc. (masculineps)",
+                "index": 1
+            }
+        ],
+        "2-0-2": [
+            {
+                "id": "2a6513de-48d5-45be-9e5b-3a2809fcdad7",
+                "tokenData": {
+                    "textType": "target",
+                    "idWord": "2-0-2",
+                    "segmentIndex": 1,
+                    "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c"
+                },
+                "type": "LEMMAID",
+                "text": "https://betamasaheft.eu/Dillmann/lemma/Lc372a0c42e3f4448a888fc8becc52f04",
+                "index": 1
+            },
+            {
+                "id": "af9d7c53-d524-46bf-b637-85c157892d7a",
+                "tokenData": {
+                    "textType": "target",
+                    "idWord": "2-0-2",
+                    "segmentIndex": 1,
+                    "docSourceId": "bbf8f783-0091-46b8-8b27-513efd06461c"
+                },
+                "type": "MORPHOLOGY",
+                "text": "singularp nom.(masculines)",
+                "index": 1
+            }
+        ]
+    }
+}

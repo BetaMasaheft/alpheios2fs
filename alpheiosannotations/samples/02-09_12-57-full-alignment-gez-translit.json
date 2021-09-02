@@ -1,0 +1,510 @@
+{
+    "id": "1eaf3f4f-e3e0-4914-ab76-802a579c78e9",
+    "createdDT": "2021-09-02 12:50:22",
+    "updatedDT": "2021-09-02 12:57:11",
+    "userID": "defaultUserID",
+    "origin": {
+        "docSource": {
+            "textId": "cbf7504c-265d-464c-b562-833b405ee39a",
+            "textType": "origin",
+            "text": "ጸሎተ፡ ሰርክ፡ እግዚኦ፡ ንጉሠ፡ ስብሐት፡ ኄር፡ ወመፍቀሬ፡ ሰብእ፡ ዘፀሓይ፡ ወሀብከ፡ ውስተ፡ ቅድመ፡ ዕለት፡ ወወርኀ፡ ውስተ፡ ቅድመ፡ ሌሊት፡",
+            "direction": "ltr",
+            "lang": "gez",
+            "sourceType": "text",
+            "tokenization": {
+                "tokenizer": "alpheiosRemoteTokenizer",
+                "segments": "doubleline"
+            }
+        },
+        "alignedText": {
+            "textId": "cbf7504c-265d-464c-b562-833b405ee39a",
+            "textType": "origin",
+            "direction": "ltr",
+            "lang": "gez",
+            "sourceType": "text",
+            "tokenPrefix": "1",
+            "tokenization": {
+                "tokenizer": "alpheiosRemoteTokenizer",
+                "segments": "doubleline"
+            },
+            "segments": [
+                {
+                    "index": 1,
+                    "textType": "origin",
+                    "lang": "gez",
+                    "direction": "ltr",
+                    "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                    "tokens": [
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-0",
+                            "word": "ጸሎተ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 0
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-1",
+                            "word": "ሰርክ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 1
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-2",
+                            "word": "እግዚኦ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 2
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-3",
+                            "word": "ንጉሠ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 3
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-4",
+                            "word": "ስብሐት፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 4
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-5",
+                            "word": "ኄር፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 5
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-6",
+                            "word": "ወመፍቀሬ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 6
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-7",
+                            "word": "ሰብእ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 7
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-8",
+                            "word": "ዘፀሓይ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 8
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-9",
+                            "word": "ወሀብከ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 9
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-10",
+                            "word": "ውስተ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 10
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-11",
+                            "word": "ቅድመ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 11
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-12",
+                            "word": "ዕለት፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 12
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-13",
+                            "word": "ወወርኀ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 13
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-14",
+                            "word": "ውስተ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 14
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-15",
+                            "word": "ቅድመ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 15
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-16",
+                            "word": "ሌሊት፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 16
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "targets": {
+        "0143d3d0-8a6b-46a5-84ac-5861d065bdae": {
+            "docSource": {
+                "textId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                "textType": "target",
+                "text": "ṣalota sark ʾǝgziʾo nǝguśa sǝbḥat ḫer wamafqare sabʾ zaḍaḥāy wahabka wǝsta qǝdma ʿǝlat wawarḫa wǝsta qǝdma lelit",
+                "direction": "ltr",
+                "lang": "translit",
+                "sourceType": "text",
+                "tokenization": {
+                    "tokenizer": "alpheiosRemoteTokenizer",
+                    "segments": "doubleline"
+                }
+            },
+            "alignedText": {
+                "textId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                "textType": "target",
+                "direction": "ltr",
+                "lang": "translit",
+                "sourceType": "text",
+                "tokenPrefix": 2,
+                "tokenization": {
+                    "tokenizer": "alpheiosRemoteTokenizer",
+                    "segments": "doubleline"
+                },
+                "segments": [
+                    {
+                        "index": 1,
+                        "textType": "target",
+                        "lang": "translit",
+                        "direction": "ltr",
+                        "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                        "tokens": [
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-0",
+                                "word": "ṣalota",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 0
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-1",
+                                "word": "sark",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 1
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-2",
+                                "word": "ʾǝgziʾo",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 2
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-3",
+                                "word": "nǝguśa",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 3
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-4",
+                                "word": "sǝbḥat",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 4
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-5",
+                                "word": "ḫer",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 5
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-6-s1-1",
+                                "word": "wa",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 6
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-6-s2-1",
+                                "word": "mafqare",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 7
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-7",
+                                "word": "sabʾ",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 8
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-8",
+                                "word": "zaḍaḥāy",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 9
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-9-s1-1",
+                                "word": "wa",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 10
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-9-s2-1",
+                                "word": "habka",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 11
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-10",
+                                "word": "wǝsta",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 12
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-11",
+                                "word": "qǝdma",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 13
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-12",
+                                "word": "ʿǝlat",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 14
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-13-s1-1",
+                                "word": "wa",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 15
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-13-s2-1",
+                                "word": "warḫa",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 16
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-14",
+                                "word": "wǝsta",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 17
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-15",
+                                "word": "qǝdma",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 18
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-16",
+                                "word": "lelit",
+                                "segmentIndex": 1,
+                                "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 19
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "alignmentGroups": [],
+    "annotations": {
+        "1-0-3": [
+            {
+                "id": "35d15b92-f169-4680-97e7-f7925af9fdc1",
+                "tokenData": {
+                    "textType": "origin",
+                    "idWord": "1-0-3",
+                    "segmentIndex": 1,
+                    "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a"
+                },
+                "type": "LEMMAID",
+                "text": "https://betamasaheft.eu/Dillmann/lemma/Lfe9b7dc9f9a34d47a42d268bba6127e9",
+                "index": 1
+            },
+            {
+                "id": "cebf4890-b8e7-4c37-b2be-9bb65f51a2b8",
+                "tokenData": {
+                    "textType": "origin",
+                    "idWord": "1-0-3",
+                    "segmentIndex": 1,
+                    "docSourceId": "cbf7504c-265d-464c-b562-833b405ee39a"
+                },
+                "type": "MORPHOLOGY",
+                "text": "singularp unmarkeds acc. (masculinep)",
+                "index": 1
+            }
+        ],
+        "2-0-3": [
+            {
+                "id": "4410d81a-49bd-4d0f-b6a2-87c788ad419c",
+                "tokenData": {
+                    "textType": "target",
+                    "idWord": "2-0-3",
+                    "segmentIndex": 1,
+                    "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae"
+                },
+                "type": "LEMMAID",
+                "text": "https://betamasaheft.eu/Dillmann/lemma/Lfe9b7dc9f9a34d47a42d268bba6127e9",
+                "index": 1
+            }
+        ],
+        "2-0-6-s2-1": [
+            {
+                "id": "24040e0a-ecc8-4fba-b379-839b0aa4184d",
+                "tokenData": {
+                    "textType": "target",
+                    "idWord": "2-0-6-s2-1",
+                    "segmentIndex": 1,
+                    "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae"
+                },
+                "type": "LEMMAID",
+                "text": "https://betamasaheft.eu/Dillmann/lemma/L50c4d94e627e451d82b810c890e48a69",
+                "index": 1
+            }
+        ],
+        "2-0-6-s1-1": [
+            {
+                "id": "8d6f972e-8658-4ec4-ad05-3681cc96333e",
+                "tokenData": {
+                    "textType": "target",
+                    "idWord": "2-0-6-s1-1",
+                    "segmentIndex": 1,
+                    "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae"
+                },
+                "type": "LEMMAID",
+                "text": "https://betamasaheft.eu/Dillmann/lemma/L5be3816e2da14855b9e11b601d83bb79",
+                "index": 1
+            },
+            {
+                "id": "f8c8cf1d-0911-4eb6-9c15-1556dd70bf0d",
+                "tokenData": {
+                    "textType": "target",
+                    "idWord": "2-0-6-s1-1",
+                    "segmentIndex": 1,
+                    "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae"
+                },
+                "type": "MORPHOLOGY",
+                "text": "conj",
+                "index": 1
+            },
+            {
+                "id": "7ab4b9cf-96e9-43a2-a196-b90534c16326",
+                "tokenData": {
+                    "textType": "target",
+                    "idWord": "2-0-6-s1-1",
+                    "segmentIndex": 1,
+                    "docSourceId": "0143d3d0-8a6b-46a5-84ac-5861d065bdae"
+                },
+                "type": "COMMENT",
+                "text": "this is a comment on this annotation",
+                "index": 1
+            }
+        ]
+    }
+}

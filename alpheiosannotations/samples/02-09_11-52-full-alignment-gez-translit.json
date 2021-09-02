@@ -1,0 +1,214 @@
+{
+    "id": "46bf2813-fad2-4ccf-847c-26b91d5d7746",
+    "createdDT": "2021-09-02 11:47:24",
+    "updatedDT": "2021-09-02 11:51:59",
+    "userID": "defaultUserID",
+    "origin": {
+        "docSource": {
+            "textId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be",
+            "textType": "origin",
+            "text": "<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">\n    <dts:fragment xmlns:dts=\"https://w3id.org/dts/api#\">\n        <div type=\"edition\">\n            <div type=\"textpart\" subtype=\"incipit\" xml:lang=\"gez\" xml:id=\"Incipit\">\n               <ab>ተኀሥሦታተ፡ ወስእለታተ፡ ዘአበው፡ ወፍካሬሆሙ\n             <\/ab>\n            <\/div>\n         <\/div>\n    <\/dts:fragment>\n<\/TEI>",
+            "direction": "ltr",
+            "lang": "gez",
+            "sourceType": "tei",
+            "tokenization": {
+                "tokenizer": "alpheiosRemoteTokenizer",
+                "ignore": "label,ref,milestone,orig,abbr,head,title,teiHeader,del,g,bibl,front,back,speaker",
+                "linebreaks": "p,div,seg,l,ab",
+                "segments": "doubleline"
+            }
+        },
+        "alignedText": {
+            "textId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be",
+            "textType": "origin",
+            "direction": "ltr",
+            "lang": "gez",
+            "sourceType": "tei",
+            "tokenPrefix": "1",
+            "tokenization": {
+                "tokenizer": "alpheiosRemoteTokenizer",
+                "ignore": "label,ref,milestone,orig,abbr,head,title,teiHeader,del,g,bibl,front,back,speaker",
+                "linebreaks": "p,div,seg,l,ab",
+                "segments": "doubleline"
+            },
+            "segments": [
+                {
+                    "index": 1,
+                    "textType": "origin",
+                    "lang": "gez",
+                    "direction": "ltr",
+                    "docSourceId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be",
+                    "tokens": [
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-0",
+                            "word": "ተኀሥሦታተ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 0
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-1",
+                            "word": "ወስእለታተ፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 1
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-2",
+                            "word": "ዘአበው፡",
+                            "segmentIndex": 1,
+                            "docSourceId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 2
+                        },
+                        {
+                            "textType": "origin",
+                            "idWord": "1-0-3",
+                            "word": "ወፍካሬሆሙ",
+                            "segmentIndex": 1,
+                            "docSourceId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be",
+                            "sentenceIndex": 1,
+                            "tokenIndex": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "targets": {
+        "435e349c-ddbf-4019-a66c-69021eb1b2d1": {
+            "docSource": {
+                "textId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                "textType": "target",
+                "text": "taḫaśśotāta wasʾlatāta zaʾabaw wafkārehomu",
+                "direction": "ltr",
+                "lang": "translit",
+                "sourceType": "text",
+                "tokenization": {
+                    "tokenizer": "alpheiosRemoteTokenizer",
+                    "segments": "doubleline"
+                }
+            },
+            "alignedText": {
+                "textId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                "textType": "target",
+                "direction": "ltr",
+                "lang": "translit",
+                "sourceType": "text",
+                "tokenPrefix": 2,
+                "tokenization": {
+                    "tokenizer": "alpheiosRemoteTokenizer",
+                    "segments": "doubleline"
+                },
+                "segments": [
+                    {
+                        "index": 1,
+                        "textType": "target",
+                        "lang": "translit",
+                        "direction": "ltr",
+                        "docSourceId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                        "tokens": [
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-0",
+                                "word": "taḫaśśotāta",
+                                "segmentIndex": 1,
+                                "docSourceId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 0
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-1-s1-1",
+                                "word": "wa",
+                                "segmentIndex": 1,
+                                "docSourceId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 1
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-1-s2-1",
+                                "word": "sʾlatāta",
+                                "segmentIndex": 1,
+                                "docSourceId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 2
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-2-s1-1",
+                                "word": "za",
+                                "segmentIndex": 1,
+                                "docSourceId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 3
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-2-s2-1",
+                                "word": "ʾabaw",
+                                "segmentIndex": 1,
+                                "docSourceId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 4
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-3-s1-1",
+                                "word": "wa",
+                                "segmentIndex": 1,
+                                "docSourceId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 5
+                            },
+                            {
+                                "textType": "target",
+                                "idWord": "2-0-3-s2-1",
+                                "word": "fkārehomu",
+                                "segmentIndex": 1,
+                                "docSourceId": "435e349c-ddbf-4019-a66c-69021eb1b2d1",
+                                "sentenceIndex": 1,
+                                "tokenIndex": 6
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "alignmentGroups": [],
+    "annotations": {
+        "1-0-2": [
+            {
+                "id": "8d529a00-1ee5-4439-b432-581b0e301938",
+                "tokenData": {
+                    "textType": "origin",
+                    "idWord": "1-0-2",
+                    "segmentIndex": 1,
+                    "docSourceId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be"
+                },
+                "type": "LEMMAID",
+                "text": "https://betamasaheft.eu/Dillmann/lemma/L5a145d47e7774fdb9f6fb2b33c3942e1",
+                "index": 1
+            },
+            {
+                "id": "74f7e572-d095-4f20-af53-55b37cfae50f",
+                "tokenData": {
+                    "textType": "origin",
+                    "idWord": "1-0-2",
+                    "segmentIndex": 1,
+                    "docSourceId": "a1b8c7b9-0ecd-41bf-ba5b-bfa30a8639be"
+                },
+                "type": "MORPHOLOGY",
+                "text": "plural ext p plurals nom. (m.)",
+                "index": 1
+            }
+        ]
+    }
+}
