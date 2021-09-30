@@ -1,6 +1,9 @@
 xquery version "3.1";
 module namespace alpheios = "https://betamasaheft.eu/alpehios";
 declare namespace t = "http://www.tei-c.org/ns/1.0";
+
+import module namespace http = "http://expath.org/ns/http-client";
+
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "xml";
 declare option output:indent "yes";
@@ -55,7 +58,7 @@ declare function alpheios:do-add($commits, $contents-url as xs:string?) {
 };
 
 declare function alpheios:parse-request($json-data) {
-let $cturl := $repository?contents_url
+let $cturl := $json-data?contents_url
 let $contents-url := substring-before($cturl, '{')
 return
         try {
@@ -68,22 +71,17 @@ return
                 else
                     (<response
                         status="fail"><message>This is a GitHub request, however there were no commits.</message></response>
-                        ,
-                        gitsync:failedCommitMessage('', $data-collection, 'This is a GitHub request, however there were no commits.')
                         )
             else
                 (<response
-                    status="fail"><message>Not from the master branch.</message></response>,
-                        gitsync:mergeCommitMessage('', $data-collection, 'Not from the master branch.', $json-data?ref)
-                        )
+                    status="fail"><message>Not from the master branch.</message></response>
+                       )
                         
         } catch * {
             (<response
                 status="fail">
                 <message>{concat($err:code, ": ", $err:description)}</message>
-            </response>,
-                        gitsync:failedCommitMessage('', $data-collection, concat($err:code, ": ", $err:description))
-                        )
+            </response>)
         }
 };
 
