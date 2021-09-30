@@ -138,12 +138,6 @@
         <val>Second</val>
         <val/>
     </name>
-    <name name="tamp">
-        <val>Perfect</val>
-        <val>subjunctive</val>
-        <val>Gerund</val>
-        <val>Imperfect</val>
-    </name>
     <name name="state">
         <val>Nominal state</val>
         <val>Construct state</val>
@@ -151,7 +145,7 @@
         <val>Pronominal state</val>
         <val>Feminine</val>
     </name>
-    <name name="tam">
+    <name name="temp">
         <val>Perfect</val>
         <val>Imperfect</val>
         <val>subjunctive</val>
