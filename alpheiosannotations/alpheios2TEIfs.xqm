@@ -33,7 +33,6 @@ declare function alpheios:do-add($commits, $contents-url as xs:string?) {
         let $JSON := parse-json($thispayload)
         let $file-data := $JSON?content
         let $file-name := $JSON?name
-        let $collection := xs:anyURI($data-collection)
         let $resource-path := substring-before($modified, $file-name)
         let $collection-uri := '/db/apps/tracesData'
         return
