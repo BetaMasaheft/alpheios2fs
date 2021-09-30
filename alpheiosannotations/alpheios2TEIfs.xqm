@@ -32,7 +32,7 @@ declare function alpheios:do-add($commits, $contents-url as xs:string?) {
         let $file-name := $JSON?name
         let $collection := xs:anyURI($data-collection)
         let $resource-path := substring-before($modified, $file-name)
-        let $collection-uri := '/db/apps/parser/traces'
+        let $collection-uri := '/db/apps/tracesData'
         return
             try {
                 ( let $TEI := alpheios:toFS($alpheiosjsonexport)
